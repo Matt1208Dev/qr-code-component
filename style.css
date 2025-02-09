@@ -48,6 +48,7 @@ body {
 
 .card-text {
   margin-top: 1.5rem; /* 24px */
+  padding-inline: 1rem; /* 16px */
 }
 
 .card-title {
